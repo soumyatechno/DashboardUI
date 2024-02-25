@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+	margin: 30px;
+	width: 100vh;
+	border: 0.5px solid #ededed;
+	box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.3);
+}
+.cardDetails {
+	display: flex;
+	gap: 20px;
+	padding: 5px;
+}
+.buttonContainer {
+	display: flex;
+	gap: 20px;
+}
+.input {
+	border: none;
+	font-size: 18px;
+}
