@@ -1,0 +1,42 @@
+.form-container {
+	max-width: 500px;
+	margin: 20px auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.form-group {
+	margin-bottom: 20px;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.forminput {
+	width: 100%;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.btn {
+	width: 100%;
+	padding: 10px;
+	font-size: 16px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.btn-container {
+	display: flex;
+}
